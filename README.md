@@ -1,5 +1,9 @@
 # gtagency-spring2022-face-superresolution
 
-Akash C
+Akash Chakka
+
+
 Abhay Sheshadri
+
+
 Vidushi Maheshwari
